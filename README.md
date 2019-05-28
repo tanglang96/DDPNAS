@@ -15,7 +15,7 @@ Here we provide our test codes and pretrained models, our code is based on [DART
 
 ## Evaluate
 
-You need to modified your path to dataset in ``` data_providers/cifar10.py``` and ```data_providers/imagenet.py```，```config.sh``` is used to prepare your environment, you should **write this file by yourself** and here we use it to prepare dataset and packages
+You need to modified your path to dataset in ```data_providers/imagenet.py```，```config.sh``` is used to prepare your environment, you should **write this file by yourself** and here we use it to prepare dataset and packages
 
 To evaluate the model in **DARTS setting**, just run
 
