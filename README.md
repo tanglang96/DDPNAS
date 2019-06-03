@@ -8,6 +8,8 @@ Here we provide our test codes and pretrained models, our code is based on [DART
 
 **Search codes** will be released by [Sherwood](https://github.com/zhengxiawu) later !
 
+Our paper can be found [here](https://arxiv.org/pdf/1905.13543.pdf)
+
 ## Requirements
 
 - PyTorch 1.0
