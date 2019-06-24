@@ -6,8 +6,6 @@ Network architectures obtained by Neural Architecture Search (NAS) have shown st
 
 Here we provide our test codes and pretrained models, our code is based on [DARTS](<https://github.com/khanrc/pt.darts>) and [ProxylessNAS](<https://github.com/mit-han-lab/ProxylessNAS>), pretrained models can be downloaded [here](https://drive.google.com/open?id=1LwOXXRJNgfEna0K2j58P9LuZdrWXQeEQ)
 
-**Search codes** will be released by [Sherwood](https://github.com/zhengxiawu) later !
-
 Our paper can be found [here](https://arxiv.org/pdf/1905.13543.pdf)
 
 ## Requirements
